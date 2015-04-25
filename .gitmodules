@@ -1,0 +1,6 @@
+[submodule "copernicus-api"]
+	path = copernicus-api
+	url = https://github.com/gronostajo/copernicus-api.git
+[submodule "vcopernicus"]
+	path = vcopernicus
+	url = https://github.com/mkwm/iot-vcopernicus.git
